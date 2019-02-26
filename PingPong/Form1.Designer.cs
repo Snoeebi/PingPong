@@ -1,6 +1,6 @@
 ﻿namespace PingPong
 {
-    partial class frmPingPong
+    partial class FrmPingPong
     {
         /// <summary>
         /// Required designer variable.

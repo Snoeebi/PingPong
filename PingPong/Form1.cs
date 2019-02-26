@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PingPong
 {
-    public partial class frmPingPong : Form
+    public partial class FrmPingPong : Form
     {
         private const int CHANGEX = 5;
         private const int CHANGEY = 2;
@@ -20,7 +20,7 @@ namespace PingPong
         private Operators _xDirection = Operators.PLUS;
         private Operators _yDirection = Operators.PLUS;
 
-        public frmPingPong()
+        public FrmPingPong()
         {
             InitializeComponent();
 
